@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462027242 source:/home/user/git_projects/p2016-00006-c-2plus-int/Unions/main.cpp
+	<iostream>
+	"Unions.h"
+
+1462026551 /home/user/git_projects/p2016-00006-c-2plus-int/Unions/Unions.h
+	<cstdint>
+
