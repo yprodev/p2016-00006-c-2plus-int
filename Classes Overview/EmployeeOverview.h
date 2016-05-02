@@ -28,19 +28,34 @@ using namespace std;
     #ifndef EMPLOYEE_DEFINED, #define EMPLOYEE_DEFINED, #endif (at the end) - prevent this file
     to being included. This is an older way of doing '#pragma once'.
 
-
-
 */
 
 class Employee
 {
 public:     // Functions
+
+    /*
+        A1 - means another lesson but in the same project
+
+        A1a. That is reasonable to expect that any function that request data from our class
+        which gets data or returns data might be called a query function.
+
+        This is also reasonable to suggest these functions will not modify class data. We could
+        name our set function as modifer functions and get functions as query functions.
+
+        To formilize this definition we should declare all of our query functions as const member
+        functions. The keyword 'const' should be applied to the header for the member function
+        in both the declararion and implementation.
+
+    */
     void SetName(string name);
     void SetEmpNo(int empno);
     void SetExtension(int ext);
-    string GetName();
-    int GetEmpNo();
-    int GetExtension();
+    string GetName() const;
+    int GetEmpNo() const;
+    int GetExtension() const;
+
+
 protected:  // Functions
 
 private:    // functions

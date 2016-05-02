@@ -25,17 +25,18 @@ void Employee::SetExtension(int ext)
     extention = ext;
 }
 
-string Employee::GetName()
+string Employee::GetName() const
 {
     return name;
 }
 
-int Employee::GetEmpNo()
+int Employee::GetEmpNo() const
 {
     return employeeNo;
+    // employeeNo = 0;      // not allowed in const function
 }
 
-int Employee::GetExtension()
+int Employee::GetExtension() const
 {
     return extention;
 }
