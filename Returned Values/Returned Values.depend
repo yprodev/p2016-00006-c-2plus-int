@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462183180 source:/home/user/git_projects/p2016-00006-c-2plus-int/Returned Values/Functions.cpp
+	<tuple>
+	<tuple>
+
+1462183117 source:/home/user/git_projects/p2016-00006-c-2plus-int/Returned Values/main.cpp
+	<tuple>
+	<iostream>
+
+1462183146 source:/home/user/git_projects/p2016-00006-c-2plus-int/Returned Values/FunctionsReturningReferencec.cpp
+
