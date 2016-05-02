@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462212592 source:/home/user/git_projects/p2016-00006-c-2plus-int/Class Initialisation/EmployeeInitialisation.cpp
+	"EmployeeInitialisation.h"
+
+1462212209 /home/user/git_projects/p2016-00006-c-2plus-int/Class Initialisation/EmployeeInitialisation.h
+	<string>
+
+1462212935 source:/home/user/git_projects/p2016-00006-c-2plus-int/Class Initialisation/main.cpp
+	<iostream>
+	"EmployeeInitialisation.h"
+
