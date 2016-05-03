@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CarChained.cpp" />
+		<Unit filename="CarChained.h" />
+		<Unit filename="CarUnchained.cpp" />
+		<Unit filename="CarUnchained.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

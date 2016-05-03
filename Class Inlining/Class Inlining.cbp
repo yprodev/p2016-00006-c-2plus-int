@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="PersonInline.cpp" />
+		<Unit filename="PersonInline.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

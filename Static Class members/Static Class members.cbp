@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="EmployeeStatic.cpp" />
+		<Unit filename="EmployeeStatic.h" />
+		<Unit filename="PersonStatic.cpp" />
+		<Unit filename="PersonStatic.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
