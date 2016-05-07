@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462626504 source:/home/user/git_projects/p2016-00006-c-2plus-int/Copy Construction/main.cpp
+	<iostream>
+	<vector>
+	"PersonCC.h"
+
+1462625881 /home/user/git_projects/p2016-00006-c-2plus-int/Copy Construction/PersonCC.h
+

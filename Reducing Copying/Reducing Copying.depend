@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462632686 source:/home/user/git_projects/p2016-00006-c-2plus-int/Reducing Copying/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<list>
+	<string.h>
+
