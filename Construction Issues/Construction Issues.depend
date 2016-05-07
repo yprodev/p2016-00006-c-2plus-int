@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462618670 source:/home/user/git_projects/p2016-00006-c-2plus-int/Construction Issues/main.cpp
+	<iostream>
+	<vector>
+	"PersonConstructorIssues.h"
+
+1462617315 /home/user/git_projects/p2016-00006-c-2plus-int/Construction Issues/PersonConstructorIssues.h
+
