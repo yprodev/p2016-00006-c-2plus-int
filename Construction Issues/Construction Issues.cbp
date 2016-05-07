@@ -35,6 +35,7 @@
 		</Compiler>
 		<Unit filename="PersonConstructionIssues.cpp" />
 		<Unit filename="PersonConstructorIssues.h" />
+		<Unit filename="PersonDeletedCC.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

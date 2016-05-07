@@ -32,6 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="EmployeeConversion.h" />
+		<Unit filename="PersonConversion.cpp" />
+		<Unit filename="PersonConversion.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
