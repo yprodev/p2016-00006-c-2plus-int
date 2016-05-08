@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CarFuncPtr.cpp" />
+		<Unit filename="CarFuncPtr.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
