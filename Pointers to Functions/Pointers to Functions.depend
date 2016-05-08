@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462719458 source:/home/user/git_projects/p2016-00006-c-2plus-int/Pointers to Functions/CarFuncPtr.cpp
+	"CarFuncPtr.h"
+
+1462719255 /home/user/git_projects/p2016-00006-c-2plus-int/Pointers to Functions/CarFuncPtr.h
+	<string>
+
+1462725971 source:/home/user/git_projects/p2016-00006-c-2plus-int/Pointers to Functions/main.cpp
+	"CarFuncPtr.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
