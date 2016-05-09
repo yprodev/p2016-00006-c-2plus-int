@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462785565 source:/home/user/git_projects/p2016-00006-c-2plus-int/Introduction to lambdas/CarLambda.cpp
+	"CarLambda.h"
+
+1462789890 /home/user/git_projects/p2016-00006-c-2plus-int/Introduction to lambdas/CarLambda.h
+	<string>
+
